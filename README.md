@@ -1,10 +1,5 @@
 # Hazardous Concentrations of Various Gases and Substances (ppm)
 
-> LEL: Lower Explosives Limit
-> UEL: Upper Explosives Limit
-> OSHA: Occupational Safety and Health Administrations
-> PEL: Permissible Exposure Limit
-
 ## LPG (Liquefied Petroleum Gas)
 * LEL: 18,000 ppm (1.8%)
 * UEL: 95,000 ppm (9.5%)
@@ -38,3 +33,8 @@
 * OSHA PEL: 250 ppm (8-hour average)
 * Hazardous Concentration: >500 ppm (dizziness, headache, irritation), >1,000 ppm (toxic, CNS depression)
 
+### Notes
+* > LEL: Lower Explosives Limit
+* > UEL: Upper Explosives Limit
+* > OSHA: Occupational Safety and Health Administrations
+* > PEL: Permissible Exposure Limit
